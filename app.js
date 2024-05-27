@@ -29,7 +29,7 @@ var options = {
     size: 0,
   },
   title: {
-    text: "Meeting Analytics",
+    text: "Reaction Analytics",
     align: "left",
   },
   fill: {
